@@ -1,4 +1,4 @@
-# ⌨️ Win11 Keyboard Hook Lab
+# ⌨️ Windows Keyboard Logger Hook Lab
 
 PowerShell script (`RevisionServidoresSs.ps1`) for cybersecurity academy labs to analyze low-level Windows APIs (`SetWindowsHookEx`).
 
